@@ -1,4 +1,4 @@
-# 🎯 Rule-Based Recommendation System (Java)..
+# 🎯 Rule-Based Recommendation System (Java)
 
 A **rule-based recommendation system** built using **core Java** that suggests relevant courses or items based on **user interest** and **skill level**.
 
