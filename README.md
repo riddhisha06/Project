@@ -10,7 +10,7 @@ The system uses **deterministic IF–ELSE logic** and a large predefined rule se
 
 This project demonstrates how **rule-driven recommendation engines** operate in real-world systems.
 
-The application accepts:
+The application accept:
 - 🎯 **Interest**
 - 📊 **Skill Level**
 
