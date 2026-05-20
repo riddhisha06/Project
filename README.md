@@ -2,7 +2,7 @@
 
 A **rule-based recommendation system** built using **core Java** that suggests relevant courses or items based on **user interest** and **skill level**.
 
-The system uses **deterministic IF–ELSE logic** and a large predefined rule set to generate recommendations in a transparent and explainable way.
+The system uses **deterministic IF–ELSE logic** and a large predefined rule set to generate recommendations in a transparent and explainable way
 
 ---
 
