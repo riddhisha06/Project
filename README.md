@@ -6,7 +6,7 @@ The system uses **deterministic IF–ELSE logic** and a large predefined rule se
 
 ---
 
-## 📌 Project Overvie
+## 📌 Project Overview
 
 This project demonstrates how **rule-driven recommendation engines** operate in real-world systems.
 
